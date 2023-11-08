@@ -28,8 +28,8 @@
 - **Comparer des composants** : Les utilisateurs peuvent comparer les performances de plusieurs composants.
 - **Soumettre des benchmarks** : Les utilisateurs peuvent ajouter des données de benchmark.
 - **Afficher des statistiques** : Les utilisateurs peuvent accéder aux statistiques globales.
-- **Gérer les comptes (Administrateur)** : L'administrateur peut gérer les comptes des utilisateurs et les données soumises.
-  ![use case](https://ibb.co/NyYrCKN)
+- **Gérer les comptes (Administrateur)** : L'administrateur peut gérer les comptes des utilisateurs et les données soumises.<br>
+  ![use case]<a href="https://ibb.co/NyYrCKN"><img src="https://i.ibb.co/W2K05fz/benchmark.jpg" alt="benchmark" border="0"></a>
 
 
 ---
