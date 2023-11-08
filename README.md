@@ -29,7 +29,8 @@
 - **Soumettre des benchmarks** : Les utilisateurs peuvent ajouter des données de benchmark.
 - **Afficher des statistiques** : Les utilisateurs peuvent accéder aux statistiques globales.
 - **Gérer les comptes (Administrateur)** : L'administrateur peut gérer les comptes des utilisateurs et les données soumises.
-![Alt Text]("C:\Users\DIAE\Desktop\uml\benchmark.jpg")
+  ![use case](https://ibb.co/NyYrCKN)
+
 
 ---
 
